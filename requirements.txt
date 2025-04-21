@@ -1,0 +1,7 @@
+Flask
+textblob
+
+to download:
+pip install -r requirements.txt
+python -m textblob.download_corpora
+python app.py
